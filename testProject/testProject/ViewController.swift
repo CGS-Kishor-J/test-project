@@ -32,7 +32,7 @@ class ViewController: UIViewController {
     
     func explode() {
         
-        fjkhkjdh
+        println("Big Scary explosion")
     }
 
 }
