@@ -29,6 +29,11 @@ class ViewController: UIViewController {
         // prints stuff
         println("Feature");
     }
+    
+    func explode() {
+        
+        fjkhkjdh
+    }
 
 }
 
