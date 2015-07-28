@@ -34,6 +34,10 @@ class ViewController: UIViewController {
         
         println("Big Scary explosion")
     }
+    
+    func Hi() {
+        println("hi")
+    }
 
 }
 
