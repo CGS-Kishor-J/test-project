@@ -35,7 +35,7 @@ class ViewController: UIViewController {
         println("Big Scary explosion")
     }
     
-    func featureq {
+    func featureq() {
         
         println("q")
     }
