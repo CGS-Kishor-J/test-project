@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D91A6311B69E77800728A95 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D91A6301B69E77800728A95 /* ViewController2.swift */; };
 		8DC997FF1B6388BF0058C829 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC997FE1B6388BF0058C829 /* AppDelegate.swift */; };
 		8DC998011B6388BF0058C829 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC998001B6388BF0058C829 /* ViewController.swift */; };
 		8DC998041B6388BF0058C829 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8DC998021B6388BF0058C829 /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8D91A6301B69E77800728A95 /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		8DC997F91B6388BF0058C829 /* testProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DC997FD1B6388BF0058C829 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8DC997FE1B6388BF0058C829 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 			children = (
 				8DC997FE1B6388BF0058C829 /* AppDelegate.swift */,
 				8DC998001B6388BF0058C829 /* ViewController.swift */,
+				8D91A6301B69E77800728A95 /* ViewController2.swift */,
 				8DC998021B6388BF0058C829 /* Main.storyboard */,
 				8DC998051B6388BF0058C829 /* Images.xcassets */,
 				8DC998071B6388BF0058C829 /* LaunchScreen.xib */,
@@ -214,6 +217,7 @@
 			files = (
 				8DC998011B6388BF0058C829 /* ViewController.swift in Sources */,
 				8DC997FF1B6388BF0058C829 /* AppDelegate.swift in Sources */,
+				8D91A6311B69E77800728A95 /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -411,6 +415,7 @@
 				8DC9981A1B6388BF0058C829 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8DC9981B1B6388BF0058C829 /* Build configuration list for PBXNativeTarget "testProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +424,7 @@
 				8DC9981D1B6388BF0058C829 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
