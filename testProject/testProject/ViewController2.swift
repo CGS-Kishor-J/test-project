@@ -10,4 +10,9 @@ import Foundation
 
 println("Hi")
 
+<<<<<<< HEAD
 fjdahjfbn vdhfjkadfjk
+=======
+println("hi")
+
+>>>>>>> ConflictsGalore
