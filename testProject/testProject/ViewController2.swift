@@ -10,8 +10,4 @@ import Foundation
 
 println("Hi")
 
-<<<<<<< HEAD
-hisjsdjhfdjahdfjbdaf
-=======
-his
->>>>>>> bugfix
+fjdahjfbn vdhfjkadfjk
